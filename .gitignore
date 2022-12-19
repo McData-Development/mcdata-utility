@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Production
+build/
+
+# Miscellaneous
+.vscode/
+.idea/
+.fleet/
+
+# Log files
+*.log
+npm-debug.log*
+logs/

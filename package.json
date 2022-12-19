@@ -1,0 +1,26 @@
+{
+  "private": "true",
+  "name": "@mcdata/mcdata-utility",
+  "version": "0.0.0",
+  "description": "McData utility provides several packages which can be implemented in your codebase.",
+  "keywords": [
+    "minecraft",
+    "mcdata",
+    "utility",
+    "discord",
+    "node",
+    "mcdata utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/McData-Development/mcdata-utility.git"
+  },
+  "bugs": {
+    "url": "https://github.com/McData-Development/mcdata-utility/issues"
+  },
+  "author": "HalloSouf",
+  "license": "Apache-2.0",
+  "workspaces": [
+    "./packages/*"
+  ]
+}
