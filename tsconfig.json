@@ -18,7 +18,6 @@
 
     // Modules
     "baseUrl": ".",
-    "rootDir": "./src",
     "moduleResolution": "Node",
     "module": "CommonJS",
     
@@ -26,8 +25,8 @@
     "noEmitHelpers": true,
     "importsNotUsedAsValues": "error",
     "importHelpers": true,
-    "outDir": "./build",
     "inlineSourceMap": true,
+    "declaration": true,
 
     // Interop Constraints
     "esModuleInterop": true,

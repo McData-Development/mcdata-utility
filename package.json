@@ -18,9 +18,17 @@
   "bugs": {
     "url": "https://github.com/McData-Development/mcdata-utility/issues"
   },
-  "author": "HalloSouf",
+  "contributors": [
+    {
+      "name": "HalloSouf",
+      "email": "soufianesedd@gmail.com"
+    }
+  ],
   "license": "Apache-2.0",
   "workspaces": [
     "./packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "tsup": "^6.5.0"
+  }
 }
