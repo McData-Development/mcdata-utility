@@ -7,5 +7,7 @@
     // Emit
     "outDir": "./build"
   },
-  "include": ["src/**/*.ts"]
+  "include": [
+    "src/**/*"
+  ],
 }
